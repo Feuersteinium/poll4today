@@ -1,4 +1,9 @@
 {
+    "Question": "Adventure or relaxing on vacation?",
+    "NoV": 16,
+    "Results":
+    {
     "Adventure": 38,
     "Relaxing": 63
+    }
 }

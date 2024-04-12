@@ -16,7 +16,7 @@ Should you have ideas for new polls or just want to give feedback feel free to o
 |[Adventure or relaxing vacation?](https://mastodon.de/@feuerstein/112200568345979427)|02.04.2024| 16 | [JSON](./bydate/02-04-2024.json) |
 |[Did you read the tos?](https://mastodon.de/@feuerstein/112206230646014682)|03.04.2024| 33 |  [JSON](./bydate/03-04-2024.json) |
 |[How good is the current AI development?](https://mastodon.de/@feuerstein/112211892743971144)|04.04.2024| 10 | [JSON](./bydate/04-04-2024.json) |
-|[Rate the current political situation](https://mastodon.de/@feuerstein/112217555723038044)|05.04.2024| 10 | N/A |
+|[Rate the current political situation](https://mastodon.de/@feuerstein/112217555723038044)|05.04.2024| 10 | [JSON](./bydate/05-04-2024.json) |
 |[Are you scared of extremism](https://mastodon.de/@feuerstein/112223217423638834)|06.04.2024|N/A | N/A |
 |[How would you rate your self-convenience? (5 means highest)](https://mastodon.de/@feuerstein/112228880315458971)|07.04.2024|N/A | N/A |
 |[Do you ever witnessed a crime?](https://mastodon.de/@feuerstein/112234542040470771)|08.04.2024|N/A | N/A |

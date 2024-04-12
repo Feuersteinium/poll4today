@@ -1,7 +1,12 @@
 {
+    "Question": "How good would you rate the current political situation overall?",
+    "NoV": 10,
+    "Results":
+    {
     "-2": 40,
     "-1": 30,
     "0": 20,
     "1": 0,
-    "2": 10, 
+    "2": 10
+    }
 }

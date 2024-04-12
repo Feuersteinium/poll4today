@@ -1,5 +1,10 @@
 {
+    "Question": "Are you a fan of board games?",
+    "NoV": 19,
+    "Results":
+    {
     "Yes": 47,
     "No": 21,
-    "It depends on my mood": 32,
+    "It depends on my mood": 32
+    }
 }

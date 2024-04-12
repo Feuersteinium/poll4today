@@ -1,5 +1,10 @@
 {
+    "Question": "Feierst du Ostern?",
+    "NoV": 18,
+    "Results":
+    {
     "Ja (religiöse Gründe)": 6,
     "Ja (traditionelle Gründe)": 61,
     "Nein": 33
+    }
 }
