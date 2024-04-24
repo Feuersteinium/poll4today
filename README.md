@@ -24,3 +24,15 @@ Should you have ideas for new polls or just want to give feedback feel free to o
 |[Do you think there are situations, where violence is necessary?](https://mastodon.de/@feuerstein/112245866632817574)|10.04.2024|N/A | N/A |
 |[Do you belive in extraterrestrial life?](https://mastodon.de/@feuerstein/112251529303256425)|11.04.2024|N/A | N/A |
 |[Do you think the simulation hypotesis is plausible? (2 means really plausible)](https://mastodon.de/@feuerstein/112257191845838583)| 12.04.2024|N/A | N/A |
+|[Do you have specific plans of your future or do you rather take it as a surprise?](https://mastodon.de/@feuerstein/112262853430959410) | 13.04.2024 | N/A | N/A |
+|[Are you tattooed?](https://mastodon.de/@feuerstein/112268515819467330) | 14.04.2024 | N/A | N/A |
+|[Are you rather tall (2) or small (-2)?](https://mastodon.de/@feuerstein/112274178112205411) | 15.04.2024 | N/A | N/A |
+|[Do you have a beard?](https://mastodon.de/@feuerstein/112279841031960204) | 16.04.2024 | N/A | N/A |
+|[How well is your current sleeping cycle?](https://mastodon.de/@feuerstein/112285503101850117) | 17.04.2024 | N/A | N/A |
+|[How much do you like change in your live? (2 = highest)](https://mastodon.de/@feuerstein/112291165047996319) | 18.04.2024 | N/A | N/A |
+|[Do you like horror movies?](https://mastodon.de/@feuerstein/112296827390796870) | 19.04.2024 | N/A | N/A |
+|[How problematic is misinformation to our society?](https://mastodon.de/@feuerstein/112302489799587110) | 20.04.2024 | N/A | N/A |
+|[How international should economy be? (2 = highest)](https://mastodon.de/@feuerstein/112308152083631619) | 21.04.2024 | N/A | N/A |
+|[Is a fee for public toilets legitimate in your opinion?](https://mastodon.de/@feuerstein/112313814631181649) | 22.04.2024 | N/A | N/A |
+|[Do you have children (or the wish for them)](https://mastodon.de/@feuerstein/112319476782455302) | 23.04.2024 | N/A | N/A |
+|[Whats the price of ice cream in your town?](https://mastodon.de/@feuerstein/112325139021518077) | 24.04.2024 | N/A | N/A |
