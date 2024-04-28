@@ -1,0 +1,12 @@
+{
+    "Question": "Do you think there are situations, where violence is necessary?",
+    "NoV": 15,
+    "Results":
+    {
+    "-2": 20,
+    "-1": 7,
+    "0": 13,
+    "1": 20,
+    "2": 40
+    }
+}

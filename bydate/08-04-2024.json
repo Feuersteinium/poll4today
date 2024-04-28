@@ -1,0 +1,9 @@
+{
+    "Question": "Do you ever witnessed a crime?",
+    "NoV": 60,
+    "Results":
+    {
+    "Yes": 60,
+    "No": 40
+}
+}
