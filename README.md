@@ -36,3 +36,7 @@ Should you have ideas for new polls or just want to give feedback feel free to o
 |[Is a fee for public toilets legitimate in your opinion?](https://mastodon.de/@feuerstein/112313814631181649) | 22.04.2024 | N/A | N/A |
 |[Do you have children (or the wish for them)](https://mastodon.de/@feuerstein/112319476782455302) | 23.04.2024 | N/A | N/A |
 |[Whats the price of ice cream in your town?](https://mastodon.de/@feuerstein/112325139021518077) | 24.04.2024 | N/A | N/A |
+|[How do you think about subscriptions?](https://mastodon.de/@feuerstein/112330801513130858) | 25.04.2024 | N/A | N/A |
+|[How well is the relation to your colleagues?](https://mastodon.de/@feuerstein/112336463593771028) | 26.04.2024 | N/A | N/A | 
+|[How do you think about subscriptions?](https://mastodon.de/@feuerstein/112342126343189085) | 27.04.2024 | N/A | N/A | 
+|[Would you appreciate a world without hard cash?](https://mastodon.de/@feuerstein/112347788912487519) | 28.04.2024 | N/A | N/A |
